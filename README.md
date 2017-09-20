@@ -34,12 +34,12 @@ go get
 
 Run Producer:
 ```
-go run sender.go
+go run send.go
 ```
 
 Run Consumer:
 ```
-go run reader.go
+go run receive.go
 ```
 
 ### Experiment
